@@ -30,9 +30,9 @@ while(true){
 }
 
 // 4
-let a = +prompt('Выедите число а');
-let b = +prompt('Выедите число b');;
-let min = (a<b)?()=>alert(a):()=>alert(b);
+let c = +prompt('Введите число а');
+let d = +prompt('Выедите число b');;
+let min = (c<d)?()=>alert(c):()=>alert(d);
 min();
 
 
